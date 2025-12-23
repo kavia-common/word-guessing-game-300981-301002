@@ -1,0 +1,4 @@
+{
+    "command": "flutter build apk --release --target-platform android-x64",
+    "working_directory": "/home/kavia/workspace/code-generation/word-guessing-game-300981-301002/wordle_frontend"
+}
